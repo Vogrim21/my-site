@@ -1,0 +1,18 @@
+﻿body {
+  padding: 0;
+  font-family: "Arial", sans-serif;
+  font-size: 14px;
+  line-height: 18px;
+  color: #000000;
+  
+}
+div{text-transform: uppercase;
+text-align: center;
+font-size: 32px;}
+ins{font-size: 20px;
+padding: 20px;
+margin: 100px;
+text-decoration: none;}
+img{width: 125px;
+height: 175px;
+text-align: left;}
